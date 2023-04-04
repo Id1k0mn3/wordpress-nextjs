@@ -1,0 +1,5 @@
+{
+    "require": {
+        "webdevstudios/wds-headless-theme": "^1.0"
+    }
+}

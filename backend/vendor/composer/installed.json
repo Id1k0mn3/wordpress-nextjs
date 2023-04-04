@@ -1,0 +1,41 @@
+{
+    "packages": [
+        {
+            "name": "webdevstudios/wds-headless-theme",
+            "version": "1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/WebDevStudios/wds-headless-theme.git",
+                "reference": "ccc7f5fb7c73c13654c2405810f053fb5f04229e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/WebDevStudios/wds-headless-theme/zipball/ccc7f5fb7c73c13654c2405810f053fb5f04229e",
+                "reference": "ccc7f5fb7c73c13654c2405810f053fb5f04229e",
+                "shasum": ""
+            },
+            "time": "2021-09-24T20:37:52+00:00",
+            "type": "wordpress-theme",
+            "installation-source": "dist",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "WebDevStudios",
+                    "email": "contact@webdevstudios.com"
+                }
+            ],
+            "description": "WordPress theme for the Next.js WordPress Starter.",
+            "homepage": "https://github.com/WebDevStudios/nextjs-wordpress-starter",
+            "support": {
+                "source": "https://github.com/WebDevStudios/wds-headless-theme/tree/1.0.0"
+            },
+            "install-path": "../webdevstudios/wds-headless-theme"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
